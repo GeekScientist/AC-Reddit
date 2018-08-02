@@ -1,5 +1,7 @@
 (Widget Title: Filter by Flair)
 
+(Height: 410)
+
 #**Filter by Flair**
 
 [NCCC](https://www.reddit.com/r/AmeriCorps/search?q=flair%3ANCCC&restrict_sr=on&sort=new&t=all#nccc)
