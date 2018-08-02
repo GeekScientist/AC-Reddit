@@ -1,0 +1,138 @@
+#Helpful Resources
+
+[AmeriCorps Website](https://www.nationalservice.gov/americorps)
+
+[AmeriCorps Alums](https://www.americorpsalums.org)
+
+[My AmeriCorps Portal](https://my.americorps.gov/)
+
+[National Service Gear](https://americorps.nationalservicegear.org/)
+
+[NCCCxchange](http://corpsxchange.ning.com/)
+
+[VISTA Campus](https://www.vistacampus.gov)
+
+[This Year & Beyond Podcast](https://www.thisyearandbeyond.com/)
+
+h1 {
+margin-top: 0;
+margin-bottom: 23px;
+text-align: left;
+font-size: 10px;
+font-weight: 700;
+letter-spacing: 0.5px;
+line-height: 12px;
+text-transform: uppercase;
+padding-bottom: 4px;
+background-color: #000000;
+color: #ffffff;
+border-radius: 4px 4px 0 0;
+display: -webkit-box;
+display: -ms-flexbox;
+display: flex;
+padding: 12px;
+}
+
+body { margin: 0; }
+
+* {
+    text-align: center;
+    font-family: IBMPlexSans, sans-serif;
+}
+
+p {
+    font-size: 11px;
+    color: #a4a7a8;
+}
+
+a {
+    display: inline-block;
+    width: 290px;
+    box-sizing: border-box;
+    margin: 0;
+    margin-top: -4px;
+    padding: 5px 0;
+    text-decoration: none;
+    font-size: 11px;
+    letter-spacing: 0.5px;
+    line-height: 20px;
+    text-transform: uppercase;
+    border-radius: 4px;
+    color: #000000;
+    border: 1px solid #000000;
+    font-weight: 700;
+}
+
+a:hover {
+    background-color:#000000;
+    color: #fff;
+}
+
+/*------------edit this section and put in your own urls, as many as you want, use this to 
+customize the colors for individual links ----------------------------------------*/
+
+body [href$='https://www.nationalservice.gov/americorps'] {
+  background-color: transparent;
+  border-color: #b8001f;
+  color: #b8001f; }
+ 
+body
+[href$='https://www.americorpsalums.org'] {
+  background-color: transparent;
+  border-color: #46d160;
+  color: #46d160; }
+
+ body [href$='https://my.americorps.gov/'] {
+  background-color: transparent;
+  border-color: #00a6a5;
+  color: #00a6a5; }
+
+ body [href$='https://americorps.nationalservicegear.org/'] {
+  background-color: transparent;
+  border-color: #7193ff;
+  color: #7193ff; }
+
+body [href$='http://corpsxchange.ning.com/'] {
+  background-color: transparent;
+  border-color: #ff4500;
+  color: #ff4500; }
+
+body [href$='https://www.vistacampus.gov'] {
+   background-color: transparent;
+   border-color: #ffb000;
+   color: #ffb000; }
+
+body [href$='https://www.thisyearandbeyond.com/'] {
+   background-color: transparent;
+   border-color: #800080;
+   color: #800080; }
+
+/*---------HOVER----------*/
+
+a[href="https://www.nationalservice.gov/americorps"]:hover {
+ border-color: #c6324b;
+ color: #c6324b; }
+
+a[href="https://www.americorpsalums.org"]:hover {
+ border-color: #6ada7f;
+ color: #6ada7f; }
+
+a[href="https://my.americorps.gov/"]:hover {
+ border-color: #32b7b7; 
+ color: #32b7b7; }
+
+a[href="https://americorps.nationalservicegear.org/"]:hover { 
+ border-color: #8da8ff;
+ color: #8da8ff; }
+
+a[href="http://corpsxchange.ning.com/"]:hover {
+ border-color: #ff6a32; 
+ color: #ff6a32}
+
+a[href="https://www.vistacampus.gov"]:hover {
+ border-color: #ffbf32;
+ color: #ffbf32; }
+
+a[href="https://www.thisyearandbeyond.com/"]:hover {
+ border-color: #993299;
+ color: #993299; }
