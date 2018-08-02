@@ -1,3 +1,7 @@
+(Widget Title: POST SUBMISSION GUIDELINES)
+
+
+
 Please flair your post with **NCCC**, **FEMA Corps**, **VISTA**, **State/National**, **City Year**, **Life After AmeriCorps**, *or* **Other** depending on the content of your submission.
 
 *To see the official subreddit rules and regulations, please check out the [wiki page](https://www.reddit.com/r/AmeriCorps/wiki/guidelines).*
