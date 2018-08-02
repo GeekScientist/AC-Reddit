@@ -1,5 +1,5 @@
-(Widget Title: 
-       HELPFUL RESOURCES)
+(Widget Title: HELPFUL RESOURCES)
+(Height: 332)
 
 
 (MARKDOWN:)
