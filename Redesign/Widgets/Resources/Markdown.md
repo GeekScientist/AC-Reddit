@@ -1,4 +1,4 @@
-(Widget Title: HELPFUL RESOURCES)
+(Widget Title: Helpful Resources)
 (Height: 332)
 
 
