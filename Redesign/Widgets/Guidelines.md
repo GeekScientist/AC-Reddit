@@ -1,4 +1,4 @@
-(Widget Title: POST SUBMISSION GUIDELINES)
+(Widget Title: Post Submission Guidelines)
 
 
 
