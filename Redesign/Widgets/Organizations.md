@@ -1,4 +1,4 @@
-(Widget title: AFFILIATED ORGANIZATIONS)
+(Widget title: Affiliated Organizations)
 
 
 
