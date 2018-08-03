@@ -1,4 +1,4 @@
-(Widget Title: r/AMERICORPS DISCLAIMER)
+(Widget Title: r/AmeriCorps Disclaimer)
 
 
 
