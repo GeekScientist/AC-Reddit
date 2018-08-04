@@ -6,4 +6,4 @@ Please flair your post with **NCCC**, **FEMA Corps**, **VISTA**, **State/Nationa
 
 *To see the official subreddit rules and regulations, please check out the [wiki page](https://www.reddit.com/r/AmeriCorps/wiki/guidelines).*
 
-*Multi-year AmeriCorps alum? Current or former staff member? Request your user flair [here] (https://www.reddit.com/r/AmeriCorps/comments/84iyi6/official_user_flair_request_thread_3/).*
+*Multi-year AmeriCorps alum? Current or former staff member? Request your user flair [here] (https://www.reddit.com/r/AmeriCorps/comments/84iyi6/official_user_flair_request_thread_3).*
