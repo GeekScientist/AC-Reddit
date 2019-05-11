@@ -1,0 +1,51 @@
+.flair {
+    background: url(%%userflairs%%) no-repeat -9999px;
+    border: 0;
+    padding: 0;
+}.flair-ANCCC {
+    width: 40px;
+    height: 40px;
+    background-position: 0 0;
+}
+
+.flair-ASN {
+    width: 40px;
+    height: 40px;
+    background-position: 0 -40px;
+}
+
+.flair-AVISTA {
+    width: 40px;
+    height: 40px;
+    background-position: 0 -80px;
+}
+
+.flair-CNCS {
+    width: 45px;
+    height: 20px;
+    background-position: 0 -120px;
+}
+
+.flair-CY {
+    width: 40px;
+    height: 40px;
+    background-position: 0 -140px;
+}
+
+.flair-FEMA {
+    width: 40px;
+    height: 40px;
+    background-position: 0 -180px;
+}
+
+.flair-NATLSER {
+    width: 40px;
+    height: 40px;
+    background-position: 0 -220px;
+}
+
+.flair-PC {
+    width: 40px;
+    height: 40px;
+    background-position: 0 -260px;
+}
